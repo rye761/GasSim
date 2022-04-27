@@ -1,0 +1,419 @@
+[
+  {
+    "address": "1885 Huron St London ON",
+    "price": 164.6,
+    "coordinates": [
+      -81.187779,
+      43.027584
+    ]
+  },
+  {
+    "address": "1701 Wonderland Rd N London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.310149,
+      43.0180867
+    ]
+  },
+  {
+    "address": "400 Southdale Rd W London ON",
+    "price": 166.3,
+    "coordinates": [
+      -81.280871,
+      42.939478
+    ]
+  },
+  {
+    "address": "777 Hyde Park Rd London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.3211801,
+      42.9772152
+    ]
+  },
+  {
+    "address": "3070 Wonderland Rd S London ON",
+    "price": 166.3,
+    "coordinates": [
+      -81.280057,
+      42.936294
+    ]
+  },
+  {
+    "address": "835 Wellington Rd S London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.198636,
+      42.868056
+    ]
+  },
+  {
+    "address": "841 Wharncliffe Rd S London ON",
+    "price": 167.3,
+    "coordinates": [
+      -81.257711,
+      42.9415312
+    ]
+  },
+  {
+    "address": "1900 Dundas St London ON",
+    "price": 165.9,
+    "coordinates": [
+      -81.1763117,
+      43.0046223
+    ]
+  },
+  {
+    "address": "1791 Highbury Ave N London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.227126,
+      43.042864
+    ]
+  },
+  {
+    "address": "1878 Highbury Ave N London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.226756,
+      43.04289
+    ]
+  },
+  {
+    "address": "1975 Dundas St London ON",
+    "price": 166.6,
+    "coordinates": [
+      -81.1722556,
+      43.0057293
+    ]
+  },
+  {
+    "address": "3305 Dorchester Rd   Dorchester ON",
+    "price": 163.9,
+    "coordinates": [
+      -81.070432,
+      42.990883
+    ]
+  },
+  {
+    "address": "4112 Hamilton Rd Dorchester ON",
+    "price": 163.9,
+    "coordinates": [
+      -81.070432,
+      42.990883
+    ]
+  },
+  {
+    "address": "22949 Highbury Ave N Bryanston ON",
+    "price": 164.9,
+    "coordinates": [
+      -81.26917,
+      43.12556
+    ]
+  },
+  {
+    "address": "1181 Western Rd London ON",
+    "price": 166.1,
+    "coordinates": [
+      -81.276664,
+      43.001839
+    ]
+  },
+  {
+    "address": "380 Thompson Rd London ON",
+    "price": 164.9,
+    "coordinates": [
+      -81.2132209,
+      42.9695645
+    ]
+  },
+  {
+    "address": "463 Wellington Rd S London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.198636,
+      42.868056
+    ]
+  },
+  {
+    "address": "1149 Highbury Ave N London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.212619,
+      43.014209
+    ]
+  },
+  {
+    "address": "1140 Highbury Ave N London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.2115,
+      43.012765
+    ]
+  },
+  {
+    "address": "99 Commissioners Rd W London ON",
+    "price": 165.7,
+    "coordinates": [
+      -81.2623148,
+      42.9567572
+    ]
+  },
+  {
+    "address": "1315 Huron St London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.215659,
+      43.019687
+    ]
+  },
+  {
+    "address": "2350 Dundas St London ON",
+    "price": 163.6,
+    "coordinates": [
+      -81.1489237,
+      43.012021
+    ]
+  },
+  {
+    "address": "1509 Fanshawe Park Rd W London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.283075,
+      43.026542
+    ]
+  },
+  {
+    "address": "431 Boler Rd London ON",
+    "price": 163.9,
+    "coordinates": [
+      -81.331292,
+      42.952929
+    ]
+  },
+  {
+    "address": "3700 Highbury Ave S London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.174844,
+      42.933175
+    ]
+  },
+  {
+    "address": "21554 Highbury Ave N Ballymote ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.2392,
+      43.06651
+    ]
+  },
+  {
+    "address": "1900 Oxford St W London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.3623472,
+      42.964803
+    ]
+  },
+  {
+    "address": "4419 Colonel Talbot Rd London ON",
+    "price": 176.9,
+    "coordinates": [
+      -81.299098,
+      42.906347
+    ]
+  },
+  {
+    "address": "2368 Hamilton Rd London ON",
+    "price": 165.6,
+    "coordinates": [
+      -81.1115503,
+      42.9721735
+    ]
+  },
+  {
+    "address": "3991 Hwy 74 Belmont ON",
+    "price": 163.9,
+    "coordinates": [
+      -81.123647,
+      42.881445
+    ]
+  },
+  {
+    "address": "1207 Oxford St W London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.3235396,
+      42.9748121
+    ]
+  },
+  {
+    "address": "1115 Wellington Rd London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.22154,
+      42.930826
+    ]
+  },
+  {
+    "address": "2200 Dundas St London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.158784,
+      43.009562
+    ]
+  },
+  {
+    "address": "1251 Wellington Rd S London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.198636,
+      42.868056
+    ]
+  },
+  {
+    "address": "1380 Wellington Rd S London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.217006,
+      42.926533
+    ]
+  },
+  {
+    "address": "1253 Wellington Rd S London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.217936,
+      42.926165
+    ]
+  },
+  {
+    "address": "1390 Wellington Rd S London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.198636,
+      42.868056
+    ]
+  },
+  {
+    "address": "2263 Dundas St London ON",
+    "price": 165.9,
+    "coordinates": [
+      -81.154915,
+      43.010304
+    ]
+  },
+  {
+    "address": "1895 Hyde Park Rd London ON",
+    "price": 167.9,
+    "coordinates": [
+      -81.3346409,
+      43.003843
+    ]
+  },
+  {
+    "address": "12000 Wellington Rd St Thomas ON",
+    "price": 163.9,
+    "coordinates": [
+      -81.213837,
+      42.783785
+    ]
+  },
+  {
+    "address": "682824 Dundas St W Thamesford ON",
+    "price": 161.9,
+    "coordinates": [
+      -80.99784,
+      43.062546
+    ]
+  },
+  {
+    "address": "243 Dundas St W Thamesford ON",
+    "price": 161.9,
+    "coordinates": [
+      -80.99784,
+      43.062546
+    ]
+  },
+  {
+    "address": "149 Dundas St Thamesford ON",
+    "price": 161.9,
+    "coordinates": [
+      -80.99784,
+      43.062546
+    ]
+  },
+  {
+    "address": "10075 Sunset Rd St Thomas ON",
+    "price": 163.3,
+    "coordinates": [
+      -81.178095,
+      42.773311
+    ]
+  },
+  {
+    "address": "689 Wharncliffe Rd S London ON",
+    "price": 163.6,
+    "coordinates": [
+      -81.258566,
+      42.9487594
+    ]
+  },
+  {
+    "address": "1031 Hamilton Rd London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.187785,
+      42.976664
+    ]
+  },
+  {
+    "address": "1255 Kilally Rd London ON",
+    "price": 165.9,
+    "coordinates": [
+      -81.225385,
+      43.0301643
+    ]
+  },
+  {
+    "address": "105 Fanshawe Park Rd E London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.2767268,
+      43.0284107
+    ]
+  },
+  {
+    "address": "1536 Adelaide St N London ON",
+    "price": 166.9,
+    "coordinates": [
+      -81.254528,
+      43.034779
+    ]
+  },
+
+  {
+    "address": "693 Wonderland Rd N London ON",
+    "price": 159.9,
+    "coordinates": [
+      -81.292992,
+      42.9844348
+    ]
+  },
+  {
+    "address": "19 Adelaide St S London ON",
+    "price": 164.9,
+    "coordinates": [
+      -81.2248656,
+      42.9733446
+    ]
+  },
+  {
+    "address": "299 Wharncliffe Rd S London ON",
+    "price": 166.6,
+    "coordinates": [
+      -81.261785,
+      42.967255
+    ]
+  }
+]
